@@ -18,7 +18,7 @@ Globally, there is an increasing demand at the political level for Open Science 
 
 #### The political landscape
 
-Already in 2012, the European Commission recommended the member states to establish national guidelines for Open Access (publications and data). The Swedish Research Council (Vetenskapsrådet, VR) submitted a proposal to the government in 2015. The government in the Research Bill of 2017 stated an ambition that _“research data underlying scientific publications should be openly accessible at the time of publication”_. In 2018, VR was assigned by the government to coordinate national efforts to implement open access to research data.
+Already in 2012, the European Commission recommended the member states to establish national guidelines for Open Access (publications and data). The Swedish Research Council (Vetenskapsrådet, VR) submitted a proposal to the government in 2015. The government in the Research Bill of 2016 stated an ambition that _“research data underlying scientific publications should be openly accessible at the time of publication”_. In 2017, VR was assigned by the government to coordinate national efforts to implement open access to research data. In the Research Bill of 2020, the Government stated _"Regarding research data, the transision [to an Open Science system] shall be fully completed latest by 2026, which implies that research data is made available as open as possible and as closed as necessary"_.
 
 EU and the G20 have endorsed the FAIR principles. EU has established the European Open Science Cloud (EOSC), that aims at being a trusted environment for sharing and analysing data from all publicly funded research. Making the FAIR principles work is central to the realisation of this vision.
 
