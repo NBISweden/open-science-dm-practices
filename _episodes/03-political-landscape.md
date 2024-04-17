@@ -20,7 +20,7 @@ Globally, there is an increasing demand at the political level for Open Science 
 
 Already in 2012, the European Commission recommended the member states to establish national guidelines for Open Access (publications and data). The Swedish Research Council (Vetenskapsrådet, VR) submitted a proposal to the government in 2015. The government in the Research Bill of 2017 stated an ambition that _“research data underlying scientific publications should be openly accessible at the time of publication”_. In 2018, VR was assigned by the government to coordinate national efforts to implement open access to research data.
 
-EU and the G20 have endorsed the FAIR principles. EU has established the European Open Science Cloud (EOSC), that aims at being a trusted environment for sharing and analysing data from all publicly funded research. Making the FAIR principles work is central to the realisation of this vision.
+In 2021, the (UNESCO Recommendation on Open Science)[https://www.unesco.org/en/open-science/about] was published. EU and the G20 have endorsed the FAIR principles. EU has established the European Open Science Cloud (EOSC), that aims at being a trusted environment for sharing and analysing data from all publicly funded research. Making the FAIR principles work is central to the realisation of this vision.
 
 #### Open data directive
 
@@ -41,5 +41,3 @@ The political push for Open Science and FAIR can be considered as more of a stic
 #### References
 
 [Turning FAIR into reality](https://ec.europa.eu/info/sites/info/files/turning_fair_into_reality_1.pdf), European Commission Expert Group on FAIR Data
-
-[EU “Open Data Directive” (2019/1024)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.172.01.0056.01.ENG)
