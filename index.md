@@ -1,7 +1,6 @@
 ---
 layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
-permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
 The aim of this lesson is to acquaint you with, and make you reflect upon, the principles of Open Science and FAIR. Also to make you aware of the emerging changes regarding openness and tranparency for research being put forth by society at large.
